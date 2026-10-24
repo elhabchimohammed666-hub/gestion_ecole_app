@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # 🏫 Système de Gestion de Centre de Soutien Scolaire & Langues (Centre Omega)
 ## MERN Stack (MongoDB, Express, React, Node.js) + Tailwind CSS + Vite
 
